@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Directory containing the files
+# Directory containing the files (change it to directory with referecne genome if you are reproducing the results)
 DIRECTORY="rnaseq-mus-musculus-GSE240196"
 
 # Loop over each file in the directory
