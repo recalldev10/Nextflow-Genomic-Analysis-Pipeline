@@ -42,7 +42,7 @@ sudo apt-get install bowtie2
 
 3. Clone this repository:
 ```bash
-git clone https://github.com/recalldev/nextflow-genomic-pipeline
+git clone https://github.com/recalldev10/nextflow-genomic-pipeline
 cd nextflow-genomic-pipeline
 ```
 
@@ -92,7 +92,7 @@ Common issues and solutions:
 ## Author
 
 Preetham Bandla
-[Github](https://github.com/recalldev)
+[Github](https://github.com/recalldev10)
 
 ## Version History
 
