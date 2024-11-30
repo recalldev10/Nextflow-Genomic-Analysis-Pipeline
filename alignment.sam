@@ -1,0 +1,6 @@
+@HD	VN:1.5	SO:unsorted	GO:query
+@SQ	SN:U00096.3	LN:4641652
+@PG	ID:bowtie2	PN:bowtie2	VN:2.5.4	CL:"/Users/PBandla_1/.conda/envs/cutadapt/bin/bowtie2-align-s --wrapper basic-0 -x reference_index -f sequences.fasta -S alignment.sam"
+sequence1	0	U00096.3	2460398	0	11M	*	0	0	AGTCGTACGTA	IIIIIIIIIII	AS:i:-6	XS:i:-6	XN:i:0	XM:i:1	XO:i:0	XG:i:0	NM:i:1	MD:Z:2G8	YT:Z:UU
+sequence2	4	*	0	0	*	*	0	0	CAGCTAGCTAG	IIIIIIIIIII	YT:Z:UU
+sequence3	0	U00096.3	2611561	0	10M	*	0	0	GCTAGCTAGC	IIIIIIIIII	AS:i:-6	XS:i:-6	XN:i:0	XM:i:1	XO:i:0	XG:i:0	NM:i:1	MD:Z:8T1	YT:Z:UU
